@@ -145,7 +145,7 @@ User enables Travel Mode
 ## Live Demo
 
 **SwiftConvert:**
-[Add your published Base44 application link here]
+https://chubby-swift-convert-core.base44.app
 
 ## Project Structure
 
